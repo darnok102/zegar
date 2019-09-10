@@ -11,4 +11,4 @@ do projektu zostało wykorzystane:\
 -rtc pcf8583 (zegar czasu rzeczywistego)\
 -inne komponenty paywne i aktywne\
 __________________________________________________________________________________________________
-2019r
+Konrad Kowalski 2019r
