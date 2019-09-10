@@ -9,4 +9,4 @@ do projektu zostało wykorzystane:\
 -74hc595n (rejestr przesuwny)\
 -attiny85 (odpowiedzialna za granie melodyjki budzika)\
 -rtc pcf8583 (zegar czasu rzeczywistego)\
--inne komponenty paywne i aktywne
+-inne komponenty paywne i aktywne 
