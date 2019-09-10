@@ -1,7 +1,7 @@
 # zegar
 __________________________________________________________________________________________________
-sterowanie wyświetlaczem 7 segmentowym przy pomocy rejestru przesuwnego 
-urządzenie posiada funkcje dostosowywania jasności wyświetlacza na podstawie jasności otoczenia
+sterowanie wyświetlaczem 7 segmentowym przy pomocy rejestru przesuwnego\
+urządzenie posiada funkcje dostosowywania jasności wyświetlacza na podstawie jasności otoczenia\
 możliwe jest ustawienie budzika jak i samej godziniy za pomocą przycisków na panelu czołowym
 __________________________________________________________________________________________________
 do projektu zostało wykorzystane:\
